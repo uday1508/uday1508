@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **ds projects**
 - 🌱 I’m currently learning **AI,ML**
-- 📊Im intrested in coding animations 
+- 👩‍💻Im intrested in coding animations 
 - 💬 Ask me about **programming , game development using ds**
 - 📫 How to reach me **udayg256@gmail.com**
 
